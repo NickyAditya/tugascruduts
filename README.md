@@ -1,1 +1,1 @@
-Hai saya Nicky Aditya Bagus dan ini adalah repository pertama saya mengenai CRUD menggunakan PHP Native dan menggunakan template material-dashboard creative tim.
+Hai saya Nicky Aditya Bagus dan ini adalah repository pertama saya mengenai CRUD menggunakan PHP Native dan menggunakan template material-dashboard creative tim, dan sepertinya belum semua file bisa saya upload dikarenakan github tidak bisa menerima banyak file, sowwy :3
